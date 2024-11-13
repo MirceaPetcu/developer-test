@@ -1,0 +1,6 @@
+{
+    "statement": "Write a function that takes an integer n and returns n!. If n is 0, return 1. If n is negative, handle it appropriately.",
+    "score": 9.0,
+    "id": "2b55ace6-628f-49ba-ac24-537c129d141b",
+    "suggested_mutation": "rephrase"
+}

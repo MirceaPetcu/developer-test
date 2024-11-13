@@ -1,0 +1,6 @@
+{
+    "statement": "Determine the area of a circle given that the radius is 5 centimeters. Utilize the formula A = π * r^2 to perform the calculation, where A represents the area, r denotes the radius, and π (pi) is a mathematical constant approximately equal to 3.14159. The required area should be expressed in square centimeters.",
+    "score": 9.0,
+    "id": "71f0b5a1-96fb-4da8-b380-9a7a6d282ed0",
+    "suggested_mutation": "simplify"
+}

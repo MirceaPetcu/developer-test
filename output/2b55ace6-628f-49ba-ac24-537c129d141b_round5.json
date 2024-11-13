@@ -1,0 +1,6 @@
+{
+    "statement": "Create a function that accepts an integer n and returns the factorial of n. For n equals 0, the function should return 1. If n is a negative integer, the function should properly address this case.",
+    "score": 9.0,
+    "id": "2b55ace6-628f-49ba-ac24-537c129d141b",
+    "suggested_mutation": "rephrase"
+}

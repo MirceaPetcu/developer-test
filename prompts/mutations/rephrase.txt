@@ -1,0 +1,18 @@
+Rephrase the following problem description in a new way, keeping the original meaning intact.
+
+Your response should provide the problem's statement without including solutions, formulas, or code examples.
+Do not include introductory phrases such as 'Rephrased problem statement'—output only the rephrased statement itself.
+
+Examples of rephrased problem statement:
+
+Statement:
+"Write a function to reverse the characters in a given string."
+
+Rephrased Statement:
+"Create a function that takes a string as input and returns the string with the characters in reverse order."
+
+Statement:
+"Given an array of integers, find the maximum product of any two elements."
+
+Rephrased Statement:
+"Find the two elements in the array whose product is the greatest among all possible pairs."

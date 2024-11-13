@@ -1,0 +1,6 @@
+openai~=1.52.0
+python-dotenv~=1.0.1
+pydantic~=2.9.2
+tenacity~=8.5.0
+PyYAML~=6.0.2
+numpy==1.21.2

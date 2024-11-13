@@ -1,0 +1,6 @@
+{
+    "statement": "Write a function that accepts a list of numbers (integers or floating-point) as input and returns a new list with the same numbers sorted in ascending order. The function should handle negative numbers, positive numbers, and zero, ensuring they are all placed in the correct order relative to each other. The list may contain duplicate numbers, and these duplicates should be maintained in the output list. Additionally, the function should not modify the original list, but rather, create and return a new sorted list.",
+    "score": 9.0,
+    "id": "a94fbb05-d4fa-414c-97b4-41160ba46148",
+    "suggested_mutation": "simplify"
+}

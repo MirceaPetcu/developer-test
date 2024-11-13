@@ -1,0 +1,10 @@
+Calculate the area of a circle with a radius of 5 cm.
+Find the sum of the numbers in the list [1, 2, 3, 4, 5].
+Solve the quadratic equation: x^2 - 4x + 4 = 0.
+Write a function that sorts a list of numbers in ascending order.
+Transform the sentence: "Today is a beautiful day" to uppercase.
+Create an algorithm to check if a number is prime.
+Write a function that returns the factorial of a given number.
+Find the average of the numbers in the list [10, 20, 30, 40, 50].
+Convert 3600 seconds into hours, minutes, and seconds.
+Construct a sentence using the words: "dog", "runs", "quickly".

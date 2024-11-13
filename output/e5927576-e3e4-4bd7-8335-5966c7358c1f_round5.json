@@ -1,0 +1,6 @@
+{
+    "statement": "Create a function that takes a list of integers as an input and calculates the sum of all the numbers in the provided list. For example, given the list [1, 2, 3, 4, 5], the function should iterate through each number in the list, add them together, and return the total sum. The function should be able to handle any similar list of integers and return the correct sum of its elements.",
+    "score": 9.0,
+    "id": "e5927576-e3e4-4bd7-8335-5966c7358c1f",
+    "suggested_mutation": "simplify"
+}

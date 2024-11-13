@@ -1,0 +1,6 @@
+{
+    "statement": "Solve the quadratic equation: x^2 - 4x + 4 = 0, and additionally, write a function that outputs all possible real and complex roots for a given quadratic equation in the form ax^2 + bx + c = 0. Ensure that the function can handle cases where there are two distinct real roots, one real root (a repeated root), or two complex roots. The function should also validate the input to ensure that the coefficients correspond to a valid quadratic equation (i.e., a ≠ 0).",
+    "score": 9.0,
+    "id": "2a2a28df-b636-478a-8ecf-13dd6e8d8704",
+    "suggested_mutation": "rephrase"
+}

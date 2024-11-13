@@ -1,0 +1,6 @@
+{
+    "statement": "Determine the area of a circle when given a radius of 5 cm. To find the area, you will need to use the formula A = π * r^2, where the variable A represents the area and r is the radius of the circle. For this specific problem, you are provided with a radius (r) of 5 cm. Apply the value of π (pi), which is approximately 3.14159. Your task is to use this information to compute the precise area of the circle in square centimeters.",
+    "score": 9.0,
+    "id": "71f0b5a1-96fb-4da8-b380-9a7a6d282ed0",
+    "suggested_mutation": "simplify"
+}

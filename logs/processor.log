@@ -1,0 +1,253 @@
+2024-11-13 04:09:37,074 - __main__ - INFO - ProblemProcessor initialized with seed 42
+2024-11-13 04:09:37,074 - __main__ - INFO - ProblemProcessor initialized.
+2024-11-13 04:09:37,089 - __main__ - INFO - Loaded 10 problems from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\problems\problems.txt
+2024-11-13 04:09:37,090 - __main__ - INFO - Starting round 1 of processing...
+2024-11-13 04:09:37,091 - __main__ - INFO - Selected 7 problems for mutation
+2024-11-13 04:09:37,092 - __main__ - INFO - Applying mutation expand to problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:09:37,105 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:09:38,515 - __main__ - INFO - Successfully mutated problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:09:38,526 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:09:45,055 - __main__ - INFO - Scored problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0: 9.0
+2024-11-13 04:09:45,056 - __main__ - INFO - Applying mutation add_complexity to problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:09:45,067 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\add_complexity.txt
+2024-11-13 04:09:46,010 - __main__ - INFO - Successfully mutated problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:09:46,012 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:09:51,458 - __main__ - INFO - Scored problem e5927576-e3e4-4bd7-8335-5966c7358c1f: 8.0
+2024-11-13 04:09:51,459 - __main__ - INFO - Applying mutation simplify to problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:09:51,473 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:09:52,050 - __main__ - INFO - Successfully mutated problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:09:52,053 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:10:01,864 - __main__ - INFO - Scored problem a94fbb05-d4fa-414c-97b4-41160ba46148: 9.0
+2024-11-13 04:10:01,865 - __main__ - INFO - Applying mutation add_complexity to problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:10:01,868 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\add_complexity.txt
+2024-11-13 04:10:39,446 - __main__ - INFO - Successfully mutated problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:10:39,449 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:10:47,246 - __main__ - INFO - Scored problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704: 9.0
+2024-11-13 04:10:47,248 - __main__ - INFO - Applying mutation add_complexity to problem c229946d-4e35-4735-bd2c-01320f959950
+2024-11-13 04:10:47,251 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\add_complexity.txt
+2024-11-13 04:10:48,473 - __main__ - INFO - Successfully mutated problem c229946d-4e35-4735-bd2c-01320f959950
+2024-11-13 04:10:48,479 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:11:39,263 - __main__ - ERROR - Error evaluating problem: could not convert string to float: 'hinking":'
+2024-11-13 04:11:39,265 - __main__ - INFO - Applying mutation simplify to problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:11:39,270 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:11:39,823 - __main__ - INFO - Successfully mutated problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:11:39,826 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:11:45,012 - __main__ - INFO - Scored problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637: 9.0
+2024-11-13 04:11:45,013 - __main__ - INFO - Applying mutation simplify to problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:11:45,019 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:11:45,617 - __main__ - INFO - Successfully mutated problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:11:45,620 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:11:50,107 - __main__ - INFO - Scored problem 7d9bcfa0-4798-4b93-985a-dc876c174046: 9.5
+2024-11-13 04:11:50,111 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\71f0b5a1-96fb-4da8-b380-9a7a6d282ed0_round1.json
+2024-11-13 04:11:50,116 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\e5927576-e3e4-4bd7-8335-5966c7358c1f_round1.json
+2024-11-13 04:11:50,121 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2a2a28df-b636-478a-8ecf-13dd6e8d8704_round1.json
+2024-11-13 04:11:50,126 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\a94fbb05-d4fa-414c-97b4-41160ba46148_round1.json
+2024-11-13 04:11:50,130 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\64c0df83-b9f2-4b2c-9e99-af18b01c1637_round1.json
+2024-11-13 04:11:50,134 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\8fe5a524-b197-4a66-aa6f-6e5081be0476_round1.json
+2024-11-13 04:11:50,140 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2b55ace6-628f-49ba-ac24-537c129d141b_round1.json
+2024-11-13 04:11:50,144 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\c229946d-4e35-4735-bd2c-01320f959950_round1.json
+2024-11-13 04:11:50,149 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\6254a72e-1731-47f7-9f34-cc2488e8e57c_round1.json
+2024-11-13 04:11:50,153 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\7d9bcfa0-4798-4b93-985a-dc876c174046_round1.json
+2024-11-13 04:11:50,154 - __main__ - INFO - Updated leaderboard. Top score: 9.5
+2024-11-13 04:11:50,158 - __main__ - INFO - Leaderboard saved to leaderboard.yaml
+2024-11-13 04:11:50,159 - __main__ - INFO - Completed round 1
+2024-11-13 04:11:53,161 - __main__ - INFO - Starting round 2 of processing...
+2024-11-13 04:11:53,163 - __main__ - INFO - Selected 7 problems for mutation
+2024-11-13 04:11:53,164 - __main__ - INFO - Applying mutation expand to problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:11:53,167 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:11:54,328 - __main__ - INFO - Successfully mutated problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:11:54,330 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:11:58,162 - __main__ - INFO - Scored problem 7d9bcfa0-4798-4b93-985a-dc876c174046: 9.0
+2024-11-13 04:11:58,163 - __main__ - INFO - Applying mutation simplify to problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:11:58,167 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:12:43,600 - __main__ - INFO - Successfully mutated problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:12:43,603 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:12:50,214 - __main__ - INFO - Scored problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0: 9.0
+2024-11-13 04:12:50,215 - __main__ - INFO - Applying mutation simplify to problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:12:50,218 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:12:50,860 - __main__ - INFO - Successfully mutated problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:12:50,863 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:12:53,688 - __main__ - INFO - Scored problem e5927576-e3e4-4bd7-8335-5966c7358c1f: 9.0
+2024-11-13 04:12:53,689 - __main__ - INFO - Applying mutation rephrase to problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:12:53,699 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:12:54,092 - __main__ - INFO - Successfully mutated problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:12:54,094 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:13:01,160 - __main__ - INFO - Scored problem a94fbb05-d4fa-414c-97b4-41160ba46148: 9.0
+2024-11-13 04:13:01,161 - __main__ - INFO - Applying mutation expand to problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:13:01,164 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:13:43,097 - __main__ - INFO - Successfully mutated problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:13:43,110 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:13:50,590 - __main__ - INFO - Scored problem 2b55ace6-628f-49ba-ac24-537c129d141b: 9.0
+2024-11-13 04:13:50,591 - __main__ - INFO - Applying mutation rephrase to problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:13:50,593 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:13:51,746 - __main__ - INFO - Successfully mutated problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:13:51,751 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:14:00,165 - __main__ - ERROR - Error evaluating problem: 'response'
+2024-11-13 04:14:00,166 - __main__ - INFO - Applying mutation expand to problem 8fe5a524-b197-4a66-aa6f-6e5081be0476
+2024-11-13 04:14:00,169 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:14:01,673 - __main__ - INFO - Successfully mutated problem 8fe5a524-b197-4a66-aa6f-6e5081be0476
+2024-11-13 04:14:01,676 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:14:09,929 - __main__ - INFO - Scored problem 8fe5a524-b197-4a66-aa6f-6e5081be0476: 9.0
+2024-11-13 04:14:09,932 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\7d9bcfa0-4798-4b93-985a-dc876c174046_round2.json
+2024-11-13 04:14:09,936 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\71f0b5a1-96fb-4da8-b380-9a7a6d282ed0_round2.json
+2024-11-13 04:14:09,940 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2a2a28df-b636-478a-8ecf-13dd6e8d8704_round2.json
+2024-11-13 04:14:09,945 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\a94fbb05-d4fa-414c-97b4-41160ba46148_round2.json
+2024-11-13 04:14:09,949 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\64c0df83-b9f2-4b2c-9e99-af18b01c1637_round2.json
+2024-11-13 04:14:09,954 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\e5927576-e3e4-4bd7-8335-5966c7358c1f_round2.json
+2024-11-13 04:14:09,958 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\8fe5a524-b197-4a66-aa6f-6e5081be0476_round2.json
+2024-11-13 04:14:09,963 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2b55ace6-628f-49ba-ac24-537c129d141b_round2.json
+2024-11-13 04:14:09,967 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\c229946d-4e35-4735-bd2c-01320f959950_round2.json
+2024-11-13 04:14:09,972 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\6254a72e-1731-47f7-9f34-cc2488e8e57c_round2.json
+2024-11-13 04:14:09,973 - __main__ - INFO - Updated leaderboard. Top score: 9.0
+2024-11-13 04:14:09,977 - __main__ - INFO - Leaderboard saved to leaderboard.yaml
+2024-11-13 04:14:09,978 - __main__ - INFO - Completed round 2
+2024-11-13 04:14:12,981 - __main__ - INFO - Starting round 3 of processing...
+2024-11-13 04:14:12,982 - __main__ - INFO - Selected 7 problems for mutation
+2024-11-13 04:14:12,984 - __main__ - INFO - Applying mutation rephrase to problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:14:12,986 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:14:43,047 - __main__ - INFO - Successfully mutated problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:14:43,052 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:14:49,953 - __main__ - INFO - Scored problem 7d9bcfa0-4798-4b93-985a-dc876c174046: 9.0
+2024-11-13 04:14:49,954 - __main__ - INFO - Applying mutation expand to problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:14:49,957 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:14:54,627 - __main__ - INFO - Successfully mutated problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:14:54,629 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:15:00,653 - __main__ - INFO - Scored problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0: 9.0
+2024-11-13 04:15:00,654 - __main__ - INFO - Applying mutation rephrase to problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:15:00,656 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:15:02,560 - __main__ - INFO - Successfully mutated problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:15:02,562 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:15:14,476 - __main__ - ERROR - Error evaluating problem: 'response'
+2024-11-13 04:15:14,478 - __main__ - INFO - Applying mutation add_constraints to problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:15:14,489 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\add_constraints.txt
+2024-11-13 04:15:43,773 - __main__ - INFO - Successfully mutated problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:15:43,776 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:15:52,418 - __main__ - INFO - Scored problem a94fbb05-d4fa-414c-97b4-41160ba46148: 8.0
+2024-11-13 04:15:52,419 - __main__ - INFO - Applying mutation simplify to problem c229946d-4e35-4735-bd2c-01320f959950
+2024-11-13 04:15:52,422 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:15:53,065 - __main__ - INFO - Successfully mutated problem c229946d-4e35-4735-bd2c-01320f959950
+2024-11-13 04:15:53,070 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:16:00,419 - __main__ - INFO - Scored problem c229946d-4e35-4735-bd2c-01320f959950: 9.0
+2024-11-13 04:16:00,420 - __main__ - INFO - Applying mutation simplify to problem 8fe5a524-b197-4a66-aa6f-6e5081be0476
+2024-11-13 04:16:00,423 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:16:02,508 - __main__ - INFO - Successfully mutated problem 8fe5a524-b197-4a66-aa6f-6e5081be0476
+2024-11-13 04:16:02,518 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:16:15,111 - __main__ - INFO - Scored problem 8fe5a524-b197-4a66-aa6f-6e5081be0476: 8.5
+2024-11-13 04:16:15,112 - __main__ - INFO - Applying mutation expand to problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:16:15,116 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:16:44,794 - __main__ - INFO - Successfully mutated problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:16:44,798 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:16:52,776 - __main__ - INFO - Scored problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637: 9.0
+2024-11-13 04:16:52,780 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\7d9bcfa0-4798-4b93-985a-dc876c174046_round3.json
+2024-11-13 04:16:52,785 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\71f0b5a1-96fb-4da8-b380-9a7a6d282ed0_round3.json
+2024-11-13 04:16:52,790 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2a2a28df-b636-478a-8ecf-13dd6e8d8704_round3.json
+2024-11-13 04:16:52,794 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\a94fbb05-d4fa-414c-97b4-41160ba46148_round3.json
+2024-11-13 04:16:52,800 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\64c0df83-b9f2-4b2c-9e99-af18b01c1637_round3.json
+2024-11-13 04:16:52,805 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\e5927576-e3e4-4bd7-8335-5966c7358c1f_round3.json
+2024-11-13 04:16:52,810 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2b55ace6-628f-49ba-ac24-537c129d141b_round3.json
+2024-11-13 04:16:52,815 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\8fe5a524-b197-4a66-aa6f-6e5081be0476_round3.json
+2024-11-13 04:16:52,819 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\c229946d-4e35-4735-bd2c-01320f959950_round3.json
+2024-11-13 04:16:52,824 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\6254a72e-1731-47f7-9f34-cc2488e8e57c_round3.json
+2024-11-13 04:16:52,825 - __main__ - INFO - Updated leaderboard. Top score: 9.0
+2024-11-13 04:16:52,831 - __main__ - INFO - Leaderboard saved to leaderboard.yaml
+2024-11-13 04:16:52,832 - __main__ - INFO - Completed round 3
+2024-11-13 04:16:55,833 - __main__ - INFO - Starting round 4 of processing...
+2024-11-13 04:16:55,835 - __main__ - INFO - Selected 7 problems for mutation
+2024-11-13 04:16:55,836 - __main__ - INFO - Applying mutation expand to problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:16:55,839 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:16:56,764 - __main__ - INFO - Successfully mutated problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:16:56,770 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:17:04,927 - __main__ - INFO - Scored problem 7d9bcfa0-4798-4b93-985a-dc876c174046: 9.0
+2024-11-13 04:17:04,929 - __main__ - INFO - Applying mutation simplify to problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:17:04,932 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:17:05,797 - __main__ - INFO - Successfully mutated problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:17:05,801 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:17:10,526 - __main__ - INFO - Scored problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0: 9.0
+2024-11-13 04:17:10,526 - __main__ - INFO - Applying mutation rephrase to problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:17:10,529 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:17:45,983 - __main__ - INFO - Successfully mutated problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:17:45,986 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:17:52,059 - __main__ - INFO - Scored problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704: 9.0
+2024-11-13 04:17:52,060 - __main__ - INFO - Applying mutation simplify to problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:17:52,062 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:17:56,625 - __main__ - INFO - Successfully mutated problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:17:56,628 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:18:03,881 - __main__ - INFO - Scored problem a94fbb05-d4fa-414c-97b4-41160ba46148: 9.0
+2024-11-13 04:18:03,881 - __main__ - INFO - Applying mutation simplify to problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:18:03,884 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:18:06,651 - __main__ - INFO - Successfully mutated problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:18:06,655 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:18:18,162 - __main__ - INFO - Scored problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637: 8.0
+2024-11-13 04:18:18,162 - __main__ - INFO - Applying mutation expand to problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:18:18,165 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:18:47,483 - __main__ - INFO - Successfully mutated problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:18:47,487 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:18:55,779 - __main__ - INFO - Scored problem e5927576-e3e4-4bd7-8335-5966c7358c1f: 8.0
+2024-11-13 04:18:55,780 - __main__ - INFO - Applying mutation simplify to problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:18:55,782 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:18:57,552 - __main__ - INFO - Successfully mutated problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:18:57,556 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:19:02,405 - __main__ - INFO - Scored problem 2b55ace6-628f-49ba-ac24-537c129d141b: 9.0
+2024-11-13 04:19:02,408 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\7d9bcfa0-4798-4b93-985a-dc876c174046_round4.json
+2024-11-13 04:19:02,411 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\71f0b5a1-96fb-4da8-b380-9a7a6d282ed0_round4.json
+2024-11-13 04:19:02,415 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2a2a28df-b636-478a-8ecf-13dd6e8d8704_round4.json
+2024-11-13 04:19:02,419 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\a94fbb05-d4fa-414c-97b4-41160ba46148_round4.json
+2024-11-13 04:19:02,423 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\64c0df83-b9f2-4b2c-9e99-af18b01c1637_round4.json
+2024-11-13 04:19:02,426 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\e5927576-e3e4-4bd7-8335-5966c7358c1f_round4.json
+2024-11-13 04:19:02,430 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2b55ace6-628f-49ba-ac24-537c129d141b_round4.json
+2024-11-13 04:19:02,434 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\c229946d-4e35-4735-bd2c-01320f959950_round4.json
+2024-11-13 04:19:02,438 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\8fe5a524-b197-4a66-aa6f-6e5081be0476_round4.json
+2024-11-13 04:19:02,442 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\6254a72e-1731-47f7-9f34-cc2488e8e57c_round4.json
+2024-11-13 04:19:02,443 - __main__ - INFO - Updated leaderboard. Top score: 9.0
+2024-11-13 04:19:02,447 - __main__ - INFO - Leaderboard saved to leaderboard.yaml
+2024-11-13 04:19:02,447 - __main__ - INFO - Completed round 4
+2024-11-13 04:19:05,448 - __main__ - INFO - Starting round 5 of processing...
+2024-11-13 04:19:05,451 - __main__ - INFO - Selected 7 problems for mutation
+2024-11-13 04:19:05,452 - __main__ - INFO - Applying mutation add_complexity to problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:19:05,454 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\add_complexity.txt
+2024-11-13 04:19:07,992 - __main__ - INFO - Successfully mutated problem 7d9bcfa0-4798-4b93-985a-dc876c174046
+2024-11-13 04:19:07,995 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:19:16,843 - __main__ - INFO - Scored problem 7d9bcfa0-4798-4b93-985a-dc876c174046: 8.5
+2024-11-13 04:19:16,844 - __main__ - INFO - Applying mutation expand to problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:19:16,846 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:19:47,937 - __main__ - INFO - Successfully mutated problem 71f0b5a1-96fb-4da8-b380-9a7a6d282ed0
+2024-11-13 04:19:47,940 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:19:49,582 - __main__ - ERROR - Error evaluating problem: 'response'
+2024-11-13 04:19:49,583 - __main__ - INFO - Applying mutation expand to problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:19:49,585 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:19:59,694 - __main__ - INFO - Successfully mutated problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704
+2024-11-13 04:19:59,705 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:20:06,780 - __main__ - INFO - Scored problem 2a2a28df-b636-478a-8ecf-13dd6e8d8704: 8.0
+2024-11-13 04:20:06,780 - __main__ - INFO - Applying mutation expand to problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:20:06,789 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:20:08,587 - __main__ - INFO - Successfully mutated problem a94fbb05-d4fa-414c-97b4-41160ba46148
+2024-11-13 04:20:08,590 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:20:17,839 - __main__ - INFO - Scored problem a94fbb05-d4fa-414c-97b4-41160ba46148: 9.0
+2024-11-13 04:20:17,840 - __main__ - INFO - Applying mutation simplify to problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:20:17,843 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\simplify.txt
+2024-11-13 04:20:47,829 - __main__ - INFO - Successfully mutated problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637
+2024-11-13 04:20:47,832 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:20:53,362 - __main__ - INFO - Scored problem 64c0df83-b9f2-4b2c-9e99-af18b01c1637: 9.0
+2024-11-13 04:20:53,363 - __main__ - INFO - Applying mutation expand to problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:20:53,365 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\expand.txt
+2024-11-13 04:20:59,537 - __main__ - INFO - Successfully mutated problem e5927576-e3e4-4bd7-8335-5966c7358c1f
+2024-11-13 04:20:59,542 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:21:05,312 - __main__ - INFO - Scored problem e5927576-e3e4-4bd7-8335-5966c7358c1f: 9.0
+2024-11-13 04:21:05,313 - __main__ - INFO - Applying mutation rephrase to problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:21:05,316 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\mutations\rephrase.txt
+2024-11-13 04:21:08,120 - __main__ - INFO - Successfully mutated problem 2b55ace6-628f-49ba-ac24-537c129d141b
+2024-11-13 04:21:08,123 - __main__ - INFO - Loaded prompt from \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\prompts\evaluations\evaluate.txt
+2024-11-13 04:21:12,245 - __main__ - INFO - Scored problem 2b55ace6-628f-49ba-ac24-537c129d141b: 9.0
+2024-11-13 04:21:12,250 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\7d9bcfa0-4798-4b93-985a-dc876c174046_round5.json
+2024-11-13 04:21:12,253 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\71f0b5a1-96fb-4da8-b380-9a7a6d282ed0_round5.json
+2024-11-13 04:21:12,258 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2a2a28df-b636-478a-8ecf-13dd6e8d8704_round5.json
+2024-11-13 04:21:12,263 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\a94fbb05-d4fa-414c-97b4-41160ba46148_round5.json
+2024-11-13 04:21:12,268 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\64c0df83-b9f2-4b2c-9e99-af18b01c1637_round5.json
+2024-11-13 04:21:12,272 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\e5927576-e3e4-4bd7-8335-5966c7358c1f_round5.json
+2024-11-13 04:21:12,276 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\2b55ace6-628f-49ba-ac24-537c129d141b_round5.json
+2024-11-13 04:21:12,281 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\c229946d-4e35-4735-bd2c-01320f959950_round5.json
+2024-11-13 04:21:12,285 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\8fe5a524-b197-4a66-aa6f-6e5081be0476_round5.json
+2024-11-13 04:21:12,289 - __main__ - INFO - Saved problem: \\wsl.localhost\Ubuntu\home\mircea\side-work\3rd-wish\test-project\output\6254a72e-1731-47f7-9f34-cc2488e8e57c_round5.json
+2024-11-13 04:21:12,290 - __main__ - INFO - Updated leaderboard. Top score: 9.0
+2024-11-13 04:21:12,294 - __main__ - INFO - Leaderboard saved to leaderboard.yaml
+2024-11-13 04:21:12,295 - __main__ - INFO - Completed round 5

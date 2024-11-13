@@ -1,0 +1,19 @@
+Rewrite the following problem statement using simpler, clearer, and more concise language, making it easier to understand without losing the original meaning.
+
+Your response should provide the problem's statement without including solutions, formulas, or code examples.
+Do not include introductory phrases such as 'Simplified problem statement'—output only the simplified statement itself.
+
+
+Examples of simplified problem statement:
+
+Statement:
+"Design a function that computes the factorial of a number, which is the product of all positive integers less than or equal to that number."
+
+Simplified Statement:
+"Write a function that calculates the factorial of a number, which is the product of all whole numbers from 1 to that number."
+
+Statement:
+"Given a sequence of elements, find the length of the longest subsequence in which each element is greater than the previous one."
+
+Simplified Statement:
+"Write a function to find the longest subsequence where each number is greater than the one before it."

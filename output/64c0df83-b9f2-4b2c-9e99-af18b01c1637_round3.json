@@ -1,0 +1,6 @@
+{
+    "statement": "Write a function that takes the phrase \"Today is a beautiful day\" as an input and returns the same phrase but with all letters converted to uppercase. The function should ensure that each character in the string is transformed to its uppercase equivalent, so that no lowercase letters remain in the resulting phrase. For instance, the input \"Today is a beautiful day\" should be transformed into \"TODAY IS A BEAUTIFUL DAY\".",
+    "score": 9.0,
+    "id": "64c0df83-b9f2-4b2c-9e99-af18b01c1637",
+    "suggested_mutation": "simplify"
+}

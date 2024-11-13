@@ -1,0 +1,19 @@
+Modify the following problem statement by introducing two additional constraints or conditions that must be met during the solution.
+
+Your response should provide the problem's statement without including solutions, formulas, or code examples.
+Do not include introductory phrases. Output only the problem statement itself with the added constraints.
+
+
+Examples of problem statement with added constraints:
+
+Statement:
+"Write a function that finds the largest number in an array."
+
+Statement with added constraints:
+"Write a function that finds the largest number in an array, where the array must contain at least 10 elements and all numbers should be positive integers."
+
+Statement:
+"Create a program that sorts a list of strings."
+
+Statement with added constraints:
+"Create a program that sorts a list of strings in ascending order, where the strings should be case-insensitive and the list must not exceed 1000 elements."

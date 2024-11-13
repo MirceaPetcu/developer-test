@@ -1,0 +1,19 @@
+Expand on the following problem description by adding more context, details, or clarifications that could help provide a clearer understanding of the task.
+
+The expansion should provide the problem's statement without including solutions, formulas, or code examples.
+Do not include introductory phrases such as 'Expanded problem statement'—output only the expanded statement itself.
+
+
+Examples of expanded problem statement:
+
+Statement:
+"Write a function that calculates the area of a circle."
+
+Statement with Expansion:
+"Create a function that accepts the radius of a circle as an input and returns the area. The area of a circle is calculated using the formula A = π * r^2, where r is the radius and π is approximately 3.14159."
+
+Statement:
+"Given a list of names, sort them alphabetically."
+
+Statement with Expansion:
+"Write a function that accepts a list of names (strings) as input and returns the names sorted in alphabetical order. The function should be case-insensitive, meaning that names should be compared without regard to whether they are upper or lower case."

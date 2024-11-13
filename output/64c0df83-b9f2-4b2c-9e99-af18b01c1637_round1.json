@@ -1,0 +1,6 @@
+{
+    "statement": "Convert the phrase \"Today is a beautiful day\" to all uppercase letters.",
+    "score": 9.0,
+    "id": "64c0df83-b9f2-4b2c-9e99-af18b01c1637",
+    "suggested_mutation": "expand"
+}

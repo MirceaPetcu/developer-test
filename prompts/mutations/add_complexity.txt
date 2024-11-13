@@ -1,0 +1,15 @@
+Increase the complexity of the following problem statement by making the task more challenging.
+
+Examples:
+
+Input:
+"Write a function that returns the sum of all numbers in an array."
+
+Output:
+"Write a function that returns the sum of all numbers in an array, but exclude any numbers that are divisible by 3 or 5. Additionally, the array should be sorted in descending order before the sum is calculated."
+
+Input:
+"Create a function to check if a string is a palindrome."
+
+Output:
+"Create a function to check if a string is a palindrome, but ignore spaces and punctuation. The function should also work for both uppercase and lowercase letters and must return whether the string is a palindrome in O(n) time complexity."

@@ -1,0 +1,6 @@
+{
+    "statement": "Find the area of a circle with a radius of 5 cm using the formula A = π * r^2, where π is approximately 3.14159. Calculate the area in square centimeters.",
+    "score": 9.0,
+    "id": "71f0b5a1-96fb-4da8-b380-9a7a6d282ed0",
+    "suggested_mutation": "expand"
+}

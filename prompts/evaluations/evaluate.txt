@@ -1,0 +1,68 @@
+Analyze the following problem statement using a structured approach. For each of the criteria below, follow these steps:
+
+1. Clarity (1-10):
+   a. Identify key elements of the problem statement
+   b. Assess how well these elements are explained
+   c. Consider any ambiguities or vague language
+   d. Provide a score and justify it with specific examples
+
+2. Conciseness (1-10):
+   a. Evaluate the length of the statement
+   b. Identify any unnecessary or redundant information
+   c. Assess if the core issue is communicated efficiently
+   d. Provide a score and justify it with specific examples
+
+3. Relevance (1-10):
+   a. Determine the context or field the problem relates to
+   b. Assess how well the problem aligns with current needs or challenges in that field
+   c. Consider the potential impact of solving this problem
+   d. Provide a score and justify it with specific examples
+
+4. Feasibility (1-10):
+   a. Identify the resources, technology, or methods needed to address the problem
+   b. Assess the current availability of these requirements
+   c. Consider any potential obstacles or limitations
+   d. Provide a score and justify it with specific examples
+
+5. Overall Assessment:
+   a. Calculate the average score across all criteria
+   b. Summarize the main strengths and weaknesses of the problem statement
+   c. Provide suggestions for improvement
+
+For each criterion, explain your thought process and reasoning behind the score. Use specific examples from the problem statement to support your evaluation.
+Also, suggest one of the following modifications to improve the problem statement based on your reasoning: simplify, rephrase, add constraints, or expand.
+The model should return the evaluation in JSON format and include the overall score as a single rounded number in the result field.
+So, the JSON dict should have three keys: "Thinking" - your reasoning, "Modification" - the modification you suggest, and "Response" - the overall score.
+
+
+Example of Problem Statement JSON Evaluation:
+
+
+{ "Thinking": Problem Statement
+            "Develop a program that takes a list of integers and returns the sum of all even numbers in the list."
+
+            Clarity (8/10)
+            The problem is mostly clear, with well-defined inputs (a list of integers) and outputs (the sum of even numbers). However, the term "even numbers" could be explained slightly better (e.g., explaining that even numbers are divisible by 2).
+            The core task is clear, but the explanation of "even numbers" could be more precise.
+
+            Conciseness (9/10)
+            The statement is concise, providing just enough information to understand the task. There are no unnecessary details.
+            The problem is direct and succinct, with no redundant information.
+
+            Relevance (7/10)
+            The problem is relevant to general programming tasks but does not address a particularly urgent or high-impact issue in any specific field.
+            It’s useful but doesn’t have a significant real-world application beyond basic coding exercises.
+
+            Feasibility (10/10)
+            The problem is highly feasible, as it only requires basic programming knowledge and standard data structures.
+            The problem can be solved using basic tools available in any programming language.
+
+            Overall Assessment (8.5/10)
+            The problem is clear, concise, and feasible but could be slightly more relevant to real-world applications. No major weaknesses were found, and the task is easy to implement.
+
+,
+
+"Suggested modification": "expand",
+"Response": 8.5
+}
+

@@ -1,0 +1,6 @@
+{
+    "statement": "Create a function that accepts a single integer input, n, and returns the factorial of that number. The factorial of a non-negative integer n is the product of all positive integers less than or equal to n. It is denoted by n! and is mathematically defined as n! = n * (n - 1) * (n - 2) * ... * 1, with the special case that 0! is defined to be 1. The function should handle edge cases, such as when the input is 0 or a negative integer, appropriately.",
+    "score": 9.0,
+    "id": "2b55ace6-628f-49ba-ac24-537c129d141b",
+    "suggested_mutation": "simplify"
+}
